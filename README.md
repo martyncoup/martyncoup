@@ -15,8 +15,8 @@ You can ask me about software engineering, specifically .NET, anything about API
 ## ⚡ Fun fact
 I am a Microsoft MVP in .NET, and mentor students through the [Global Mentorship Initiative](https://globalmentorship.org/).
 
-## I can code in
+## 💻 I can code in
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,js,ts,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
-## My tools of choice
+## ⚒️ My tools of choice
 [![My Skills](https://skillicons.dev/icons?i=azure,github,mongodb,visualstudio,vscode,cloudflare)](https://skillicons.dev)
