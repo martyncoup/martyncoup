@@ -19,4 +19,4 @@ I am a 5 x [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/623c4820-
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,js,ts,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
 ## ⚒️ My tools of choice
-[![My Skills](https://skillicons.dev/icons?i=azure,github,mongodb,visualstudio,vscode,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,github,mongodb,mysql,visualstudio,vscode,cloudflare)](https://skillicons.dev)
