@@ -13,7 +13,7 @@ I'm working on a customer project during the day, and some personal projects out
 You can ask me about software engineering, specifically .NET, anything about APIs, and of course Microsoft Azure.
 
 ## ⚡ Fun fact
-I am a 5 x [Microsoft MVP[(https://mvp.microsoft.com/en-US/MVP/profile/623c4820-ef18-eb11-a813-000d3a8dfe0d) in Developer Technologies (.NET) and Microsoft Azure (Integration PaaS), and mentor students through the [Global Mentorship Initiative](https://globalmentorship.org/).
+I am a 5 x [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/623c4820-ef18-eb11-a813-000d3a8dfe0d) in Developer Technologies (.NET) and Microsoft Azure (Integration PaaS), and mentor students through the [Global Mentorship Initiative](https://globalmentorship.org/).
 
 ## 💻 I can code in
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,js,ts,html,css,tailwind,bootstrap)](https://skillicons.dev)
