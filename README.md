@@ -1,5 +1,5 @@
 # Hi, I'm Martyn 👋
-I am a software developer, originally from the UK. I am the Chief Technology Officer at The Edge Hub. We are an incubation centre aimed at helping those with great ideas, execute technically. By providing software engineering, product management, and consultancy.
+I am a software developer, originally from the UK. I am a Platform Solution Architect at Kainos.
 
 I code in .NET, usually on the Microsoft Azure platform, I do a little front end development also, using with React, and either Tailwind CSS or Bootstrap.
 
@@ -7,7 +7,7 @@ I code in .NET, usually on the Microsoft Azure platform, I do a little front end
 - 😄 Pronouns: He/him
 
 ## 🔭 I’m currently working on
-I have a large project for a customer developing a bespoke ERP. Outside of work I am something on something secret!
+I'm working on a customer project during the day, and some personal projects outside of that.
 
 ## 💬 Ask me about
 You can ask me about software engineering, specifically .NET, anything about APIs, and of course Microsoft Azure.
